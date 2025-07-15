@@ -1,0 +1,30 @@
+
+info.json
+{
+"name": "Gorilla Coin", 
+"type": "ERC20",
+"symbol": "GRRR",
+"decimals": 18,
+"description": "Gorilla Coin is a community-driven cryptocurrency that aims to empower individuals and promote financial freedom through decentralized finance (DeFi) solutions. With a focus on transparency and security, Gorilla Coin seeks to create a robust ecosystem for its users.",
+"explorer": "https://etherscan.io/token/0x58de10ADAEA007cBEcd4F4bd8973CEDa40AA38Bd",
+"website": "https://ekto.my.canva.site/gorilla-coin",
+"id": "0x58de10ADAEA007cBEcd4F4bd8973CEDa40AA38Bd",
+"status": "active",
+"links": [
+{
+  "name": "x",
+  "url": "https://x.com/Gorilla_Coin_"
+}, 
+{
+  "name": "Telegram",
+  "url": "https://t.me/GorillaCoinGRRR"
+},
+{
+  "name": "GeckoTerminal",
+  "url": "https://www.geckoterminal.com/eth/pools/0xa45a3dd233f573ff5ac02fa0928ee297becdb6da"
+}
+],
+
+
+}
+
